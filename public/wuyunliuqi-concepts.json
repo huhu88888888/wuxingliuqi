@@ -1,0 +1,121 @@
+{
+  "wuYun": {
+    "title": "五运",
+    "description": "五运是指木、火、土、金、水五行之气在一年中的主导运行状态。",
+    "items": [
+      {
+        "name": "少阴君火",
+        "element": "火",
+        "nature": "阴",
+        "description": "少阴君火代表心脏的功能，性质温暖、明亮，主要影响心血管系统。"
+      },
+      {
+        "name": "太阴湿土",
+        "element": "土",
+        "nature": "阴",
+        "description": "太阴湿土代表脾脏的功能，性质湿润、厚重，主要影响消化系统。"
+      },
+      {
+        "name": "少阳相火",
+        "element": "火",
+        "nature": "阳",
+        "description": "少阳相火代表三焦的功能，性质温热、活泼，主要影响内分泌系统。"
+      },
+      {
+        "name": "阳明燥金",
+        "element": "金",
+        "nature": "阳",
+        "description": "阳明燥金代表肺脏的功能，性质干燥、清凉，主要影响呼吸系统。"
+      },
+      {
+        "name": "太阳寒水",
+        "element": "水",
+        "nature": "阳",
+        "description": "太阳寒水代表肾脏的功能，性质寒冷、滋润，主要影响泌尿系统。"
+      },
+      {
+        "name": "厥阴风木",
+        "element": "木",
+        "nature": "阴",
+        "description": "厥阴风木代表肝脏的功能，性质疏泄、升发，主要影响肝胆系统。"
+      }
+    ]
+  },
+  "liuQi": {
+    "title": "六气",
+    "description": "六气是指风、热、暑、湿、燥、寒六种气候变化对人体的影响。",
+    "items": [
+      {
+        "name": "风",
+        "relatedElement": "木",
+        "characteristics": "升发、动荡",
+        "healthImpact": "易引起肝风内动，头痛、眩晕等症状。"
+      },
+      {
+        "name": "热",
+        "relatedElement": "火",
+        "characteristics": "炎热、上升",
+        "healthImpact": "易引起发热、口渴、心烦等热性症状。"
+      },
+      {
+        "name": "暑",
+        "relatedElement": "火",
+        "characteristics": "炎热、湿热",
+        "healthImpact": "易引起中暑、乏力、出汗等症状。"
+      },
+      {
+        "name": "湿",
+        "relatedElement": "土",
+        "characteristics": "潮湿、重浊",
+        "healthImpact": "易引起消化不良、水肿、关节疼痛等症状。"
+      },
+      {
+        "name": "燥",
+        "relatedElement": "金",
+        "characteristics": "干燥、收敛",
+        "healthImpact": "易引起干咳、皮肤干燥、便秘等症状。"
+      },
+      {
+        "name": "寒",
+        "relatedElement": "水",
+        "characteristics": "寒冷、收引",
+        "healthImpact": "易引起怕冷、腹痛、关节疼痛等症状。"
+      }
+    ]
+  },
+  "seasonRelations": {
+    "description": "五运六气与四季的对应关系",
+    "seasons": [
+      {
+        "name": "春",
+        "dominantQi": "风",
+        "dominantYun": "木",
+        "healthAdvice": "春季养生应保持情绪舒畅，适当运动，饮食宜清淡。"
+      },
+      {
+        "name": "夏",
+        "dominantQi": "热",
+        "dominantYun": "火",
+        "healthAdvice": "夏季养生应注意防暑降温，多饮水，少食辛辣。"
+      },
+      {
+        "name": "长夏",
+        "dominantQi": "湿",
+        "dominantYun": "土",
+        "healthAdvice": "长夏养生应注意健脾祛湿，饮食宜清淡。"
+      },
+      {
+        "name": "秋",
+        "dominantQi": "燥",
+        "dominantYun": "金",
+        "healthAdvice": "秋季养生应注意润肺养阴，多食滋阴润燥食物。"
+      },
+      {
+        "name": "冬",
+        "dominantQi": "寒",
+        "dominantYun": "水",
+        "healthAdvice": "冬季养生应注意保暖，适当进补，早睡晚起。"
+      }
+    ]
+  }
+} 

@@ -1,0 +1,95 @@
+{
+  "1965": {
+    "year": {
+      "tianYun": "少阴君火",
+      "diQi": "太阴湿土",
+      "description": "1965年天运少阴君火，在运行层面上属阴火运行。地气太阴湿土，为中央湿土之气。"
+    },
+    "months": [
+      {
+        "monthNumber": 1,
+        "lunarMonth": "腊月",
+        "seasonQi": "厥阴风木",
+        "guestQi": "少阳相火",
+        "description": "正处冬季，厥阴风木当令，客气少阳相火。"
+      },
+      {
+        "monthNumber": 2,
+        "lunarMonth": "正月",
+        "seasonQi": "少阴君火",
+        "guestQi": "阳明燥金",
+        "description": "初春时节，少阴君火当令，客气阳明燥金。"
+      },
+      {
+        "monthNumber": 3,
+        "lunarMonth": "二月",
+        "seasonQi": "太阴湿土",
+        "guestQi": "太阳寒水",
+        "description": "春季中期，太阴湿土当令，客气太阳寒水。"
+      },
+      {
+        "monthNumber": 4,
+        "lunarMonth": "三月",
+        "seasonQi": "少阳相火",
+        "guestQi": "厥阴风木",
+        "description": "春末夏初，少阳相火当令，客气厥阴风木。"
+      },
+      {
+        "monthNumber": 5,
+        "lunarMonth": "四月",
+        "seasonQi": "阳明燥金",
+        "guestQi": "少阴君火",
+        "description": "夏季时节，阳明燥金当令，客气少阴君火。"
+      },
+      {
+        "monthNumber": 6,
+        "lunarMonth": "五月",
+        "seasonQi": "太阳寒水",
+        "guestQi": "太阴湿土",
+        "description": "夏季中期，太阳寒水当令，客气太阴湿土。"
+      },
+      {
+        "monthNumber": 7,
+        "lunarMonth": "六月",
+        "seasonQi": "厥阴风木",
+        "guestQi": "少阳相火",
+        "description": "夏末秋初，厥阴风木当令，客气少阳相火。"
+      },
+      {
+        "monthNumber": 8,
+        "lunarMonth": "七月",
+        "seasonQi": "少阴君火",
+        "guestQi": "阳明燥金",
+        "description": "秋季时节，少阴君火当令，客气阳明燥金。"
+      },
+      {
+        "monthNumber": 9,
+        "lunarMonth": "八月",
+        "seasonQi": "太阴湿土",
+        "guestQi": "太阳寒水",
+        "description": "秋季中期，太阴湿土当令，客气太阳寒水。"
+      },
+      {
+        "monthNumber": 10,
+        "lunarMonth": "九月",
+        "seasonQi": "少阳相火",
+        "guestQi": "厥阴风木",
+        "description": "秋末冬初，少阳相火当令，客气厥阴风木。"
+      },
+      {
+        "monthNumber": 11,
+        "lunarMonth": "十月",
+        "seasonQi": "阳明燥金",
+        "guestQi": "少阴君火",
+        "description": "冬季时节，阳明燥金当令，客气少阴君火。"
+      },
+      {
+        "monthNumber": 12,
+        "lunarMonth": "十一月",
+        "seasonQi": "太阳寒水",
+        "guestQi": "太阴湿土",
+        "description": "冬季中期，太阳寒水当令，客气太阴湿土。"
+      }
+    ]
+  }
+} 
